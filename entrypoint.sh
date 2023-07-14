@@ -6,7 +6,7 @@
 DISPLAY_NAME=${DISPLAY_NAME:-'Argo_xray_'}
 
 # 定义 UUID 及 伪装路径,请自行修改.(注意:伪装路径以 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID=${UUID:-'3240f7b7-a5ab-4f8d-9eef-9d42e62e7fff'}
+UUID=${UUID:-'0e81fcfc-ea2d-4376-b93b-d37bac8b3fa8'}
 VMESS_WSPATH=${VMESS_WSPATH:-'/vmess'}
 VMESS_WARP_WSPATH=${VMESS_WARP_WSPATH:-'/vmess_warp'}
 VLESS_WSPATH=${VLESS_WSPATH:-'/vless'}
